@@ -1,2 +1,0 @@
-# IONICSEMESTRE
-trabajo semestre
